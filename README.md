@@ -21,8 +21,8 @@ votre jeu préféré !
 ------------------------
 
 Lancez les commandes suivantes dans un terminal
-	>cd gameFinder/
-	>clisp gameFinder.lisp
+	`>cd gameFinder/
+	>clisp gameFinder.lisp`
 		
 3- Notes
 --------
