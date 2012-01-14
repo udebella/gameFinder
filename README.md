@@ -2,10 +2,10 @@
 gameFinder
 ==========
 
-	Système expert en Common lisp d'ordre 0+
-	Projet dans le cadre de l'UV IA01
-	Date du projet: Décembre 2011
-	Contributeur: Ubu
+*Système expert en Common lisp d'ordre 0+
+*Projet dans le cadre de l'UV IA01
+*Date du projet: Décembre 2011
+*Contributeur: Ubu
 
 
 1- Description du projet
@@ -21,8 +21,8 @@ votre jeu préféré !
 ------------------------
 
 Lancez les commandes suivantes dans un terminal
-> cd gameFinder/
-> clisp gameFinder.lisp
+	> cd gameFinder/
+	> clisp gameFinder.lisp
 		
 3- Notes
 --------
