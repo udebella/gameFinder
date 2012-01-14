@@ -8,23 +8,23 @@ gameFinder
 	Contributeur: Ubu
 
 
-	1- Description du projet
-	------------------------
-	Vous ne vous rappellez plus comment s'appelle votre jeu préféré? Mais vous
-	voulez tout de même retrouver son nom? Lancez ce petit soft qui vous 
-	demandera quelques informations sur le jeu dont vous ne vous rappellez plus 
-	le nom. Et en fonction de ces informations, il vous retrouvera le nom de 
-	votre jeu préféré !
-
-
-	2- Utilisation du projet
-	------------------------
-	Lancez les commandes suivantes dans un terminal
-	> cd gameFinder/
-	> clisp gameFinder.lisp
+1- Description du projet
+------------------------
 	
-	
-	3- Notes
-	--------
-	/!\ Projet en Common Lisp, il vous faudra un interpreteur lisp pour 
-	pouvoir le faire fonctionner.
+Vous ne vous rappellez plus comment s'appelle votre jeu préféré? Mais vous
+voulez tout de même retrouver son nom? Lancez ce petit soft qui vous 
+demandera quelques informations sur le jeu dont vous ne vous rappellez plus 
+le nom. Et en fonction de ces informations, il vous retrouvera le nom de 
+votre jeu préféré !
+
+2- Utilisation du projet
+------------------------
+
+Lancez les commandes suivantes dans un terminal
+> cd gameFinder/
+> clisp gameFinder.lisp
+		
+3- Notes
+--------
+/!\ Projet en Common Lisp, il vous faudra un interpreteur lisp pour 
+pouvoir le faire fonctionner.
