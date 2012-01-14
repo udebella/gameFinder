@@ -1,18 +1,11 @@
 
-####### ####### ##   ## ####### ####### ####### ##    # #####   ####### ######
-#     # #     # ### ### #       #          #    # #   # #    #  #       #    ##
-#       #     # # ### # ####    ####       #    #  #  # #     # ####    #####
-#  #### ####### #  #  # #       #          #    #   # # #     # #       #   #
-#     # #     # #     # #       #          #    #    ## #   ##  #       #    #
-####### #     # #     # ####### #       ####### #    ## ####    ####### #     #
+gameFinder
+==========
 
-_______________________________________________________________________________
-|                                                                             |
-|   Système expert en Common lisp d'ordre 0+                                  |
-|   Projet dans le cadre de l'UV IA01                                         |
-|   Date du projet: Décembre 2011                                             |
-|   Contributeur: Ubu                                                         |
-|_____________________________________________________________________________|
+	Système expert en Common lisp d'ordre 0+
+	Projet dans le cadre de l'UV IA01
+	Date du projet: Décembre 2011
+	Contributeur: Ubu
 
 
 	1- Description du projet
